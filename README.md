@@ -29,7 +29,7 @@ clima/
 │   ├── stormglass.py
 │   ├── visualcrossing.py
 │   └── wolfram.py
-├── .env                       # Arquivo para armazenar as chaves de API (NÃO ENVIAR PARA O GITHUB)
+├── .env                       # Arquivo para armazenar as chaves de API
 ├── config.py                # Carrega as configurações e chaves do arquivo .env
 ├── main.py                  # Script principal que orquestra a execução
 ├── requirements.txt         # Lista de dependências do projeto
