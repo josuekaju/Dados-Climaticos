@@ -99,7 +99,7 @@ O programa solicitará a cidade, data de início e data de fim, e ao final da ex
 
 | Provedor                  | Funciona?               | Motivo                                                                    |
 | :------------------------ | :-------------------------------- | :------------------------------------------------------------------------ |
-| **Visual Crossing** | **Sim, perfeitamente.**     | Plano gratuito generoso (1.000 resultados/dia) e API robusta.             |
+| **Visual Crossing** | **Sim.**     | Plano gratuito generoso (1.000 resultados/dia) e API robusta.             |
 | **StormGlass**      | **Sim, mas com limites.**   | Funciona bem, mas limitado a 10 chamadas por dia.                         |
 | **INMET**           | **Parcialmente.**           | Funciona, mas apenas para estações do próprio INMET, nao cobre todo territorio nacional.                   |
 | **OpenWeatherMap**  | **Não (para histórico).** | O plano gratuito exige assinatura com cartão para dados históricos.     |
