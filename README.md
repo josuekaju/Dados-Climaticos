@@ -136,7 +136,7 @@ pyinstaller --onefile --windowed --name="ClimaObras" gui.py
 OPENWEATHERMAP_API_KEY = "sua_chave"
 STORMGLASS_API_KEY = "sua_chave"
 VISUALCROSSING_API_KEY = "sua_chave"
-WOLFRAM_API_KEY = "sua_chave"  # Opcional
+WOLFRAM_API_KEY = "sua_chave"  
 ```
 
 ### **Obter Chaves Gratuitas:**
