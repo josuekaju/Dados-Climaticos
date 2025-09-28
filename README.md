@@ -177,7 +177,7 @@ clima-obras/
    - **Cidade:** Toledo, Parana
    - **Data início:** 23/09
    - **Data fim:** 26/09
-   - **Anos:** 5
+   - **Anos:** 7
 3. Clique em "📊 Iniciar Análise"
 4. Aguarde a barra de progresso
 5. Clique em "📄 Abrir Relatório"
@@ -194,7 +194,7 @@ python main.py (python gui.py para interface grafica)
 Cidade: Toledo, Parana
 Data início: 23/09
 Data fim: 26/09
-Anos: 5
+Anos: 7
 ```
 
 **Saída:**
