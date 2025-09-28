@@ -286,13 +286,6 @@ urllib3>=1.26.0
 - ✅ Mantenha as chaves de API atualizadas
 - ✅ Verifique os limites diários das APIs
 
-### **Versão Atual: 2.0**
-
-- ✅ Interface gráfica completa
-- ✅ Geração de executável
-- ✅ Relatórios aprimorados
-- ✅ Sistema de cache otimizado
-
 ### **Próximas Versões:**
 
 - 🔄 Suporte a mais provedores
