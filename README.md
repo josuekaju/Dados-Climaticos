@@ -253,25 +253,6 @@ wolframalpha>=5.0.0
 urllib3>=1.26.0
 ```
 
-## 🎯 **CASOS DE USO PRÁTICOS**
-
-### **1. Planejamento de Concretagem:**
-
-- **Período:** 15/06 a 30/08 (inverno)
-- **Objetivo:** Encontrar dias secos para concretagem
-- **Resultado:** Lista de dias com probabilidade < 20%
-
-### **2. Cronograma de Pintura Externa:**
-
-- **Período:** 20/09 a 20/12 (primavera)
-- **Objetivo:** Dias com baixa umidade
-- **Resultado:** Recomendações específicas para pintura
-
-### **3. Terraplanagem:**
-
-- **Período:** 01/12 a 28/02 (verão)
-- **Objetivo:** Períodos secos para movimentação de terra
-- **Resultado:** Sequências de dias favoráveis
 
 ## ⚠️ **AVISOS IMPORTANTES:**
 
