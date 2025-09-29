@@ -96,6 +96,7 @@ pyinstaller --onefile --windowed --name="ClimaObras" gui.py
 - **StormGlass** (dados oceânicos e climatológicos)
 - **Visual Crossing** (dados detalhados - boa API gratuita)
 - **Wolfram Alpha** (análises computacionais - múltiplas fontes)
+- **Open Meteo** (dados climáticos - API open source) 
 
 ### 📊 **Análises:**
 
@@ -137,6 +138,8 @@ OPENWEATHERMAP_API_KEY = "sua_chave"
 STORMGLASS_API_KEY = "sua_chave"
 VISUALCROSSING_API_KEY = "sua_chave"
 WOLFRAM_API_KEY = "sua_chave"  
+
+INMET e OPENMETEO não necessitam api key
 ```
 
 ### **Obter Chaves Gratuitas:**
