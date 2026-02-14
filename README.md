@@ -2,7 +2,7 @@
 Coletor de dados climáticos para múltiplas APIs
 # Coletor de Dados Climáticos Multi-Provedor
 
-Este projeto é um script em Python robusto e modular, projetado para coletar dados meteorológicos históricos de múltiplas fontes (APIs), consolidar as informações em um formato consistente e salvar o resultado em um único arquivo CSV. Ele foi desenvolvido para ser flexível, permitindo que o usuário especifique a cidade e o intervalo de datas desejado para a coleta.
+Este projeto é um script em Python modular, projetado para coletar dados meteorológicos históricos de múltiplas fontes (APIs), consolidar as informações em um formato consistente e salvar o resultado em um único arquivo CSV. Ele foi desenvolvido para ser flexível, permitindo que o usuário especifique a cidade, o intervalo de datas e desejado para a coleta.
 
 ## Funcionalidades Principais
 
